@@ -35,6 +35,9 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
+### 1.1.7
+Add icon, theming and categories
+
 ### 1.1.6
 Add preview gif to readme
 

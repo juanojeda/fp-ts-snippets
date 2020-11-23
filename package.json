@@ -2,6 +2,12 @@
     "name": "fp-ts-snippets",
     "version": "1.1.6",
     "publisher": "juan-ojeda-dev",
+    "icon": "images/icon/png",
+    "galleryBanner": {
+        "color": "#5189C6",
+        "theme": "dark"
+    },
+    "categories": ["Snippets", "Programming Languages"],
     "engines": {
         "vscode": "^1.51.0"
     },

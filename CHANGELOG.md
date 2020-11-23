@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.7] - 2020-11-23
+- icon, theming and categories
+
 ## [1.1.6] - 2020-11-23
 - preview gif to readme
 
