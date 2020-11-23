@@ -33,7 +33,7 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
-### 1.1.2
+### 1.1.4
 Fixes readme
 
 ### 1.1.1
