@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.12] - 2020-11-23
+- Fix icon path
+
 ## [1.1.7] - 2020-11-23
 - icon, theming and categories
 
