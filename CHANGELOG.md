@@ -6,6 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [2.0.0] - 2020-11-24
+- add `fp` prefix to all snippets
+- improved description of monad helpers
+
 ## [1.1.13] - 2020-11-23
 - Simplify readme release notes
 

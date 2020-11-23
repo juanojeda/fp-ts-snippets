@@ -35,6 +35,6 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
-### 1.1.13
-
-Simplify release notes
+### 2.0.0
+- add `fp` prefix to all snippets
+- improved description of monad helpers
