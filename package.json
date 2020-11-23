@@ -1,9 +1,13 @@
 {
     "name": "fp-ts-snippets",
-		"version": "0.0.1",
+		"version": "0.0.2",
 		"publisher": "juan-ojeda-dev",
     "engines": {
         "vscode": "^1.51.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/juanojeda/fp-ts-snippets"
     },
     "displayName": "fp-ts-snippets",
     "description": "Simple snippets for use with fp-ts library",
