@@ -1,7 +1,7 @@
 {
     "name": "fp-ts-snippets",
-		"version": "0.0.2",
-		"publisher": "juan-ojeda-dev",
+    "version": "1.0.0",
+    "publisher": "juan-ojeda-dev",
     "engines": {
         "vscode": "^1.51.0"
     },
