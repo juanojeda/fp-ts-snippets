@@ -15,9 +15,9 @@ A set of snippets to help with writing fp-ts code.
 |`fpf`    | `import { flow } from "fp-ts/function";`      |
 |`io`     | `import * as IO from "fp-ts/IO"`              |
 |`ioe`    | `import * as IOE from "fp-ts/IOEither"`       |
-|`fold`   | `{E|TE|O|IOE}.fold(leftSideFn, rightSideFn)`  |
-|`tryc`   | `{E|TE|O|IOE}.tryCatch(tryFn, onError)`       |
-|`reduce` | `{E|TE|O|IOE}.reduce(initialValue, reducer)`  |
+|`fold`   | `{E, TE, O, IOE}.fold(leftSideFn, rightSideFn)`  |
+|`tryc`   | `{E, TE, O, IOE}.tryCatch(tryFn, onError)`       |
+|`reduce` | `{E, TE, O, IOE}.reduce(initialValue, reducer)`  |
 
 ## Requirements
 
