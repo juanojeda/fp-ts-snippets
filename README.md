@@ -35,39 +35,6 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
-### 1.1.12
-Fix icon path
+### 1.1.13
 
-### 1.1.7
-Add icon, theming and categories
-
-### 1.1.6
-Add preview gif to readme
-
-### 1.1.5
-Fixes readme
-
-### 1.1.1
-Fixes readme for v1.1
-
-### 1.1.0
-Adds snippets for 
-- fold
-- tryCatch
-- reduce
-
-### 1.0.0
-First major version, includes importers for modules:
-- Task
-- TaskEither
-- Option
-- Array
-- IO
-- IOEither
-- function
-
-### 0.0.2
-Updating changelog
-
-### 0.0.1
-First cut of some useful snippets
+Simplify release notes
