@@ -1,27 +1,27 @@
 {
   "Import Task": {
-    "prefix": "ta",
+    "prefix": "fpt",
     "body": [
       "import * as ${T} from \"fp-ts/Task\";"
     ],
     "description": "Imports all modules from Task as T. For use as, for example, `T.of`"
   },
   "Import TaskEither": {
-    "prefix": "te",
+    "prefix": "fpte",
     "body": [
       "import * as ${TE} from \"fp-ts/TaskEither\";"
     ],
     "description": "Imports all modules from TaskEither as TE. For use as, for example, `TE.of`"
   },
   "Import Option": {
-    "prefix": "op",
+    "prefix": "fpo",
     "body": [
       "import * as ${O} from \"fp-ts/Option\";"
     ],
     "description": "Imports all modules from Option as O. For use as, for example, `O.of`"
   },
   "Import Array": {
-    "prefix": "ar",
+    "prefix": "fpa",
     "body": [
       "import * as ${A} from \"fp-ts/Array\";"
     ],
@@ -49,33 +49,33 @@
     "description": "Imports the flow module from the function module."
   },
   "Import IO": {
-    "prefix": "io",
+    "prefix": "fpio",
     "body": [
       "import * as ${IO} from \"fp-ts/IO\";"
     ],
     "description": "Imports all modules from IO as IO. For use as, for example, `IO.of`"
   },
   "Import IOEither": {
-    "prefix": "ioe",
+    "prefix": "fpioe",
     "body": [
       "import * as ${IOE} from \"fp-ts/IO\";"
     ],
     "description": "Imports all modules from IOEither as IOEither. For use as, for example, `IOE.of`"
   },
-  "x.fold": {
-    "prefix": "fold",
+  "monad.fold": {
+    "prefix": "fpfold",
     "body": [
       "${1|E,TE,O,IOE|}.fold(${2: leftSideFn}, ${3: rightSideFn})"
     ]
   },
-  "x.tryCatch": {
-    "prefix": "tryc",
+  "monad.tryCatch": {
+    "prefix": "fptryc",
     "body": [
       "${1|E,TE,O,IOE|}.tryCatch(${2: tryFn}, ${3: onError})"
     ]
   },
-  "x.reduce": {
-    "prefix": "reduce",
+  "monad.reduce": {
+    "prefix": "fpred",
     "body": [
       "${1|E,TE,O,IOE|}.reduce(${2: initialValue}, ${3: reducer})"
     ]
