@@ -5,7 +5,7 @@ All notable changes to the "fp-ts-snippets" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
-## [1.1.4] - 2020-11-23
+## [1.1.5] - 2020-11-23
 - Fixes documentation
 ## [1.1.1] - 2020-11-23
 - Fixes documentation
