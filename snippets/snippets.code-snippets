@@ -48,4 +48,18 @@
     ],
     "description": "Imports the flow module from the function module."
   },
+  "Import IO": {
+    "prefix": "io",
+    "body": [
+      "import * as IO from \"fp-ts/IO\";"
+    ],
+    "description": "Imports all modules from IO as IO. For use as, for example, `IO.of`"
+  },
+  "Import IOEither": {
+    "prefix": "ioe",
+    "body": [
+      "import * as IOE from \"fp-ts/IO\";"
+    ],
+    "description": "Imports all modules from IOEither as IOEither. For use as, for example, `IOE.of`"
+  },
 }

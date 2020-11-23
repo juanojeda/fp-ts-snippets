@@ -29,5 +29,18 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
+### 1.0.0
+First major version, includes importers for modules:
+- Task
+- TaskEither
+- Option
+- Array
+- IO
+- IOEither
+- function
+
+### 0.0.2
+Updating changelog
+
 ### 0.0.1
 First cut of some useful snippets

@@ -6,8 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.0] - 2020-11-23
+- import all from IO
+- import all from IOEither
+
 ## [0.0.2] - 2020-11-23
 - add a changelog
+
 ## [0.0.1] - 2020-11-23
 
 - import all from Task
