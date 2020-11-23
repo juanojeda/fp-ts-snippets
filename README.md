@@ -33,6 +33,9 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
+### 1.1.2
+Fixes readme
+
 ### 1.1.1
 Fixes readme for v1.1
 
