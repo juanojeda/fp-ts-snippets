@@ -29,6 +29,12 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
+### 1.1.0
+Adds snippets for 
+- fold
+- tryCatch
+- reduce
+
 ### 1.0.0
 First major version, includes importers for modules:
 - Task

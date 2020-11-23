@@ -51,15 +51,33 @@
   "Import IO": {
     "prefix": "io",
     "body": [
-      "import * as IO from \"fp-ts/IO\";"
+      "import * as ${IO} from \"fp-ts/IO\";"
     ],
     "description": "Imports all modules from IO as IO. For use as, for example, `IO.of`"
   },
   "Import IOEither": {
     "prefix": "ioe",
     "body": [
-      "import * as IOE from \"fp-ts/IO\";"
+      "import * as ${IOE} from \"fp-ts/IO\";"
     ],
     "description": "Imports all modules from IOEither as IOEither. For use as, for example, `IOE.of`"
   },
+  "x.fold": {
+    "prefix": "fold",
+    "body": [
+      "${1|E,TE,O,IOE|}.fold(${2: leftSideFn}, ${3: rightSideFn})"
+    ]
+  },
+  "x.tryCatch": {
+    "prefix": "tryc",
+    "body": [
+      "${1|E,TE,O,IOE|}.tryCatch(${2: tryFn}, ${3: onError})"
+    ]
+  },
+  "x.reduce": {
+    "prefix": "reduce",
+    "body": [
+      "${1|E,TE,O,IOE|}.reduce(${2: initialValue}, ${3: reducer})"
+    ]
+  }
 }
