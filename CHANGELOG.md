@@ -6,6 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.1.1] - 2020-11-23
+- Fixes documentation
 ## [1.1.0] - 2020-11-23
 - x.fold snippet that maps to E, TE, O, IOE
 - x.tryCatch snippet that maps to E, TE, O, IOE
