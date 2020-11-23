@@ -1,0 +1,51 @@
+{
+  "Import Task": {
+    "prefix": "ta",
+    "body": [
+      "import * as ${T} from \"fp-ts/Task\";"
+    ],
+    "description": "Imports all modules from Task as T. For use as, for example, `T.of`"
+  },
+  "Import TaskEither": {
+    "prefix": "te",
+    "body": [
+      "import * as ${TE} from \"fp-ts/TaskEither\";"
+    ],
+    "description": "Imports all modules from TaskEither as TE. For use as, for example, `TE.of`"
+  },
+  "Import Option": {
+    "prefix": "op",
+    "body": [
+      "import * as ${O} from \"fp-ts/Option\";"
+    ],
+    "description": "Imports all modules from Option as O. For use as, for example, `O.of`"
+  },
+  "Import Array": {
+    "prefix": "ar",
+    "body": [
+      "import * as ${A} from \"fp-ts/Array\";"
+    ],
+    "description": "Imports all modules from Array as A. For use as, for example, `A.head`"
+  },
+  "Import Function": {
+    "prefix": "fpfn",
+    "body": [
+      "import { $0 } from \"fp-ts/function\";"
+    ],
+    "description": "Imports the prompted module from the function module."
+  },
+  "Import Pipe": {
+    "prefix": "fpp",
+    "body": [
+      "import { pipe } from \"fp-ts/function\";"
+    ],
+    "description": "Imports the pipe module from the function module."
+  },
+  "Import Flow": {
+    "prefix": "fpf",
+    "body": [
+      "import { flow } from \"fp-ts/function\";"
+    ],
+    "description": "Imports the flow module from the function module."
+  },
+}
