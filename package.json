@@ -1,13 +1,15 @@
 {
     "name": "fp-ts-snippets",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "publisher": "juan-ojeda-dev",
     "icon": "images/icon/png",
     "galleryBanner": {
         "color": "#5189C6",
         "theme": "dark"
     },
-    "categories": ["Snippets", "Programming Languages"],
+    "categories": [
+        "Snippets"
+    ],
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -17,9 +19,6 @@
     },
     "displayName": "fp-ts-snippets",
     "description": "Simple snippets for use with fp-ts library",
-    "categories": [
-        "Snippets"
-    ],
     "contributes": {
         "snippets": [
             {
