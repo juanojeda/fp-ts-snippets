@@ -6,4 +6,14 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [0.0.2] - 2020-11-23
+- add a changelog
+## [0.0.1] - 2020-11-23
+
+- import all from Task
+- import all from TaskEither
+- import all from Option
+- import all from Array
+- import x from function
+- import pipe from function
+- import flow from function

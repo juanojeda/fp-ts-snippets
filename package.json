@@ -1,11 +1,12 @@
 {
     "name": "fp-ts-snippets",
-    "displayName": "fp-ts-snippets",
-    "description": "Simple snippets for use with fp-ts library",
-    "version": "0.0.1",
+		"version": "0.0.1",
+		"publisher": "juan-ojeda-dev",
     "engines": {
         "vscode": "^1.51.0"
     },
+    "displayName": "fp-ts-snippets",
+    "description": "Simple snippets for use with fp-ts library",
     "categories": [
         "Snippets"
     ],
