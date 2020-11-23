@@ -2,6 +2,8 @@
 
 A set of snippets to help with writing fp-ts code.
 
+![Preview](images/preview.gif)
+
 ## Features
 
 | snippet | expanded |
@@ -32,6 +34,9 @@ N/A
 Very much a first draft of useful snippets. More will come with more usage of fp-ts.
 
 ## Release Notes
+
+### 1.1.6
+Add preview gif to readme
 
 ### 1.1.5
 Fixes readme
