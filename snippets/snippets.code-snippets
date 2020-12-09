@@ -13,6 +13,13 @@
     ],
     "description": "Imports all modules from TaskEither as TE. For use as, for example, `TE.of`"
   },
+  "Import Either": {
+    "prefix": "fpe",
+    "body": [
+      "import * as ${E} from \"fp-ts/Either\";"
+    ],
+    "description": "Imports all modules from Either as E. For use as, for example, `E.of`"
+  },
   "Import Option": {
     "prefix": "fpo",
     "body": [
