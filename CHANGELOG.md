@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [2.1.1] - 2020-12-09
+- fix readme
+
+## [2.1.0] - 2020-12-09
+- add snippet for Either
+
 ## [2.0.1] - 2020-11-24
 - fix snippets in readme
 

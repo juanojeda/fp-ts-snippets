@@ -9,6 +9,7 @@ A set of snippets to help with writing fp-ts code.
 | snippet | expanded |
 |--|--|
 | `fpt`    | `import * as T from "fp-ts/Task";`            |
+| `fpe`    | `import * as E from "fp-ts/Either";`            |
 | `fpte`     | `import * as TE from "fp-ts/TaskEither";`     |
 | `fpo`     | `import * as O from "fp-ts/Option";`          |
 | `fpa`     | `import * as A from "fp-ts/Array";`           |
@@ -35,6 +36,5 @@ Very much a first draft of useful snippets. More will come with more usage of fp
 
 ## Release Notes
 
-### 2.0.0
-- add `fp` prefix to all snippets
-- improved description of monad helpers
+### 2.1.1
+- add `fpe` snippet to import Either
