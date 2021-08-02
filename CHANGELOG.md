@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [2.1.2] - 2021-08-02
+- add support for .tsx files (thanks @arafatamim @tmueller)
+
 ## [2.1.1] - 2020-12-09
 - fix readme
 
